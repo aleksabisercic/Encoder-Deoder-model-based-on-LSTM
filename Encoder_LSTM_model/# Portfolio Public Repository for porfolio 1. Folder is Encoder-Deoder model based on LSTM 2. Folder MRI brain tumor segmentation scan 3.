@@ -1,4 +1,4 @@
-#Time Series Forecasting with an LSTM Encoder/Decoder in TensorFlow 2.0
+#Time Series Forecasting with an LSTM Encoder/Decoder in TensorFlow 2.0 
 Scalable time series model that can be used on wide variety of time-series data
 
 *Refrences: https://www.angioi.com/time-series-encoder-decoder-tensorflow/
